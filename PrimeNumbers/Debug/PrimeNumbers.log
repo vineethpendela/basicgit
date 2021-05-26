@@ -1,0 +1,3 @@
+﻿  primenumbers.cpp
+C:\Users\user\source\repos\cpp essential training\PrimeNumbers\PrimeNumbers\primenumbers.cpp(3,12): warning C4101: 'f': unreferenced local variable
+  PrimeNumbers.vcxproj -> C:\Users\user\source\repos\cpp essential training\PrimeNumbers\Debug\PrimeNumbers.exe
